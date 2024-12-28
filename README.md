@@ -1,6 +1,6 @@
 # Git筆記
 
-###為系統性學習 Git 版本控制系統，整理的個人筆記。內容涵蓋 Git 的基本概念 (例如版本控制、分支、合併)、常用指令 (例如 git init、git commit、git push)。
+### 為系統性學習 Git 版本控制系統，整理的個人筆記。內容涵蓋 Git 的基本概念 (例如版本控制、分支、合併)、常用指令 (例如 git init、git commit、git push)。
 
 ## 相關影片：
 - **【GeekHour】一小时Git教程 **
